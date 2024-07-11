@@ -8,7 +8,7 @@ const LoginPage = () => {
   const { user, handleUserLogin } = useAuth();
   const [credentials, setCredentials] = useState({
     email: "guest1212121@gmail.com",
-    password: "monkeys815",
+    password: "Stt4kD@44WgmFLY",
   });
 
   const navigate = useNavigate();
